@@ -62,7 +62,7 @@ ChatGPT · Claude · Gemini · Perplexity · NotebookLM · GitHub
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raisin87&show_icons=true)
+![GitHub stats](![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Raisin87&show_icons=true))
 
 ⚡ About Me
 
