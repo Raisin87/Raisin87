@@ -1,4 +1,4 @@
-Hi, I'm Raisin 👋
+# Hi, I'm Raisin 👋
 
 Aspiring professional in Cybersecurity and Artificial Intelligence based in Barcelona.
 
@@ -6,7 +6,7 @@ Aspiring professional in Cybersecurity and Artificial Intelligence based in Barc
 
 ---
 
-🚀 Focus Areas
+## 🚀 Focus Areas
 
 - 🔐 Cybersecurity fundamentals (network analysis, system protection)
 - 🤖 AI tools and prompt engineering
@@ -14,7 +14,6 @@ Aspiring professional in Cybersecurity and Artificial Intelligence based in Barc
 
 ---
 
-🧪 Projects
 
 ## 🧪 Projects
 
@@ -24,7 +23,7 @@ Aspiring professional in Cybersecurity and Artificial Intelligence based in Barc
 
 ---
 
-📚 Currently Learning
+## 📚 Currently Learning
 
 - Networking fundamentals
 - Practical cybersecurity
@@ -32,7 +31,6 @@ Aspiring professional in Cybersecurity and Artificial Intelligence based in Barc
 
 ---
 
-🛠️ Tools & Technologies
 
 ## 🛠️ Tools & Technologies
 
@@ -40,7 +38,7 @@ ChatGPT · Claude · Gemini · Perplexity · NotebookLM · GitHub
 
 ---
 
-🌍 Languages
+## 🌍 Languages
 
 - Spanish (Native)
 - English (Conversational)
@@ -48,7 +46,7 @@ ChatGPT · Claude · Gemini · Perplexity · NotebookLM · GitHub
 
 ---
 
-📈 Goals
+## 📈 Goals
 
 - Build strong foundations in cybersecurity and AI
 - Develop real-world projects
@@ -56,7 +54,7 @@ ChatGPT · Claude · Gemini · Perplexity · NotebookLM · GitHub
 
 ---
 
-📫 Contact
+## 📫 Contact
 
 - 📧 raisinreyesramos@gmail.com
 
