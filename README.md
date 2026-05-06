@@ -2,7 +2,7 @@ Hi, I'm Raisin 👋
 
 Aspiring professional in Cybersecurity and Artificial Intelligence based in Barcelona.
 
-I am currently focused on building practical skills through hands-on projects, exploring how AI systems and security concepts apply to real-world scenarios.
+> Building real skills in AI and Cybersecurity, one project at a time.
 
 ---
 
@@ -16,10 +16,11 @@ I am currently focused on building practical skills through hands-on projects, e
 
 🧪 Projects
 
-- AI Content Generation System
-  Structured approach to generating content using AI tools and prompt design
+## 🧪 Projects
 
-- (Upcoming) Network Traffic Analysis with Wireshark
+- [AI Content Generation System](https://github.com/Raisin87/ai-content-generation-system)
+  
+- *(Upcoming)* Network Traffic Analysis with Wireshark
 
 ---
 
@@ -33,9 +34,9 @@ I am currently focused on building practical skills through hands-on projects, e
 
 🛠️ Tools & Technologies
 
-- ChatGPT, Claude, Gemini
-- Perplexity, NotebookLM
-- GitHub
+## 🛠️ Tools & Technologies
+
+ChatGPT · Claude · Gemini · Perplexity · NotebookLM · GitHub
 
 ---
 
@@ -60,6 +61,10 @@ I am currently focused on building practical skills through hands-on projects, e
 - 📧 raisinreyesramos@gmail.com
 
 ---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raisin87&show_icons=true)
 
 ⚡ About Me
 
